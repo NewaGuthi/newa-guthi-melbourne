@@ -1,6 +1,6 @@
 import Content from './content.jsx';
 export const metadata = {
-    title: 'Newa Guthi Melbourne: About us'
+    title: 'Newa Guthi Victoria: About us'
 };
 
 export default async function page() {
