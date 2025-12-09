@@ -1,7 +1,7 @@
 import OrganizationChart from './organizational-chart';
 
 export const metadata = {
-    title: 'Newa Guthis Melbourne: Our Teamd and Members'
+    title: 'Newa Guthis Victoria: Our Teamd and Members'
 };
 
 export default async function page() {
